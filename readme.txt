@@ -2,7 +2,7 @@
 Contributors: sivel
 Tags: tinymce, wysiwyg, visual, editor, disable, rich
 Requires at least: 2.5
-Tested up to: 2.6.2
+Tested up to: 2.7
 Stable tag: 1.0
 
 Easily disables the visual editor globally.
