@@ -3,7 +3,7 @@
 Plugin Name: Easy Disable Visual Editor
 Plugin URI: http://sivel.net/wordpress/
 Description: Disables the Visual editor globally.
-Author: Matt Martz <mdmartz@sivel.net>
+Author: Matt Martz
 Author URI: http://sivel.net/
 Version: 1.0
 
