@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Easy Disable Visual Editor
-Plugin URI: http://sivel.net/wordpress/
+Plugin URI: http://sivel.net/wordpress/easy-disable-visual-editor/
 Description: Disables the Visual editor globally.
 Author: Matt Martz
 Author URI: http://sivel.net/
