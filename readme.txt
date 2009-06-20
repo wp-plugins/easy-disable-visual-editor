@@ -29,7 +29,7 @@ NOTE: See "Other Notes" for Upgrade and Usage Instructions as well as other pert
 
 1. Just activate and enjoy!  No configuration required.
 
-== Change Log ==
+== Changelog ==
 
 = 1.0 (2008-09-25): =
 * Initial Public Release
